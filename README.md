@@ -12,6 +12,5 @@ I'm always open to collaborating on interesting projects and learning from the c
 
 **Get in Touch:**
 - https://leetcode.com/u/hs_ss/
-- 
 - https://www.linkedin.com/in/himanshu-singh-2393622b2/
 
