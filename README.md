@@ -10,9 +10,6 @@ I'm committed to continuous learning and growth in the tech field. Currently, I'
 
 I'm always open to collaborating on interesting projects and learning from the community. Feel free to reach out if you'd like to work together or discuss tech-related topics.
 
-**projects**
-- https://himanshu0518.github.io/front-end-devlopment/
-
 **Get in Touch:**
  - https://leetcode.com/u/hs_ss/
  - https://www.linkedin.com/in/himanshu-singh-2393622b2/
