@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Himanshu Singh
 
-I'm a 3rd-year B.Tech student passionate about building intelligent systems and solving real-world problems through code. I have a strong foundation in **Data Structures and Algorithms (DSA)** and I'm currently diving deep into the world of **Machine Learning (ML)** and **Deep Learning (DL)**.
+I’m a **3rd-year B.Tech student** passionate about building **intelligent systems** that solve real-world problems through code.  
+With a strong foundation in **Data Structures and Algorithms (DSA)**, I’ve been exploring the exciting domains of **Machine Learning (ML)** and **Deep Learning (DL)**.  
+
+Currently, I’m expanding my expertise into **MLOps**, **LangChain**, and developing **end-to-end AI applications**, combining my problem-solving mindset with modern tools and frameworks to bring research-driven ideas into practical, scalable solutions.  
+
 
 ---
 
