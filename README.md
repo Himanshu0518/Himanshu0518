@@ -10,7 +10,7 @@ Currently, I’m expanding my expertise into **MLOps**, **LangChain**, and devel
 
 ## 🧠 Skills & Tools
 
-- **Languages:** Python, C++
+- **Languages:** Python, C++, Javascript
 - **Core CS:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
 - **Machine Learning:** Supervised/Unsupervised Learning, Model Evaluation, Feature Engineering
 - **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, TensorFlow
