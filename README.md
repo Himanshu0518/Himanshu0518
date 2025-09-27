@@ -15,7 +15,7 @@ Currently, I’m expanding my expertise into **MLOps**, **LangChain**, and devel
 - **Machine Learning:** Supervised/Unsupervised Learning, Model Evaluation, Feature Engineering
 - **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, TensorFlow
 - **MLOps Tools:** Docker, MLflow, DVC, FastAPI, GitHub Actions (CI/CD), AWS (EC2, S3)
-
+- **Web-devlopment** Node.js, react.js,tailwindcss,framer-motion,scdcn-ui
 ---
 
 ## 🚀 What I'm Working On
