@@ -5,6 +5,7 @@ With a strong foundation in **Data Structures and Algorithms (DSA)**, I’ve bee
 
 Currently, I’m expanding my expertise into **MLOps**, **LangChain**, and developing **end-to-end AI applications**, combining my problem-solving mindset with modern tools and frameworks to bring research-driven ideas into practical, scalable solutions.  
 
+👉 Check out all my projects here: 🌐 [My Portfolio](https://my-portfolio-two-red-70.vercel.app/)
 ---
 
 ## 🧠 Skills & Tools
@@ -22,7 +23,6 @@ Currently, I’m expanding my expertise into **MLOps**, **LangChain**, and devel
 - Exploring **advanced ML techniques** and MLOps practices
 - Participating in coding contests to sharpen my problem-solving skills
 - Building and deploying **end-to-end ML projects** using real-world tools
-👉 Check out all my projects here: 🌐 [My Portfolio](https://my-portfolio-two-red-70.vercel.app/)
 ---
 
 ## 🤝 Let's Connect
