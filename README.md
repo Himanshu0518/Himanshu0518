@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Himanshu Singh
 
-### 🚀 AI Engineer | Full-Stack Developer | Problem Solver
+### 🚀ML Enthusiast | Full-Stack Developer | Problem Solver
 
 <p>
   <a href="https://www.linkedin.com/in/himanshu-singh-2393622b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
