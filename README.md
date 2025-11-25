@@ -85,7 +85,7 @@ I'm always open to collaborating on meaningful projects or discussing tech-relat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Himanshu0518&show_icons=true&theme=radical" alt="Himanshu's GitHub Stats" />
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshu0518&show_icons=true&theme=radical&cache_seconds=1800)
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu0518&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
 
