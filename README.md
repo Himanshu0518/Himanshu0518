@@ -1,12 +1,39 @@
+<div align="center">
+
 # 👋 Hi, I'm Himanshu Singh
 
-I’m a **3rd-year B.Tech student** passionate about building **intelligent systems** that solve real-world problems through code.  
-With a strong foundation in **Data Structures and Algorithms (DSA)**, I’ve been exploring the exciting domains of **Machine Learning (ML)** and **Deep Learning (DL)**.  
+### 🚀 AI Engineer | Full-Stack Developer | Problem Solver
 
-Currently, I’m expanding my expertise into **MLOps**, **LangChain**, and developing **end-to-end AI applications**, combining my problem-solving mindset with modern tools and frameworks to bring research-driven ideas into practical, scalable solutions.  
+<p>
+  <a href="https://www.linkedin.com/in/himanshu-singh-2393622b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/hs_ss/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/hs_ss"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://my-portfolio-two-red-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
-👉 Check out all my projects here: 🌐 [My Portfolio](https://my-portfolio-two-red-70.vercel.app/)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;MLOps+%7C+LangChain+%7C+Deep+Learning;End-to-End+AI+Applications;Competitive+Programmer" alt="Typing SVG" />
+
+</div>
+
 ---
+
+## 🎯 About Me
+
+```python
+class HimanshuSingh:
+    def __init__(self):
+        self.username = "Himanshu0518"
+        self.role = "3rd Year B.Tech Student"
+        self.location = "India 🇮🇳"
+        self.interests = ["Machine Learning", "MLOps", "LangChain", "DSA" , "web-devlopment"]
+        self.current_focus = "Building end to end scalable applications"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = HimanshuSingh()
+me.say_hi()
+```
 
 ## 🧠 Skills & Tools
 
@@ -20,18 +47,9 @@ Currently, I’m expanding my expertise into **MLOps**, **LangChain**, and devel
 
 ## 🚀 What I'm Working On
 
-- Exploring **advanced ML techniques** and MLOps practices
+- Exploring Full-stack web devlopment and cloud services
 - Participating in coding contests to sharpen my problem-solving skills
-- Building and deploying **end-to-end ML projects** using real-world tools
----
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on meaningful projects or discussing tech-related ideas. Feel free to reach out!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-singh-2393622b2/)
-- 💻 [LeetCode](https://leetcode.com/u/hs_ss/)
-- 🍜 [CodeChef](https://www.codechef.com/users/hs_ss)
+- Building and deploying **end-to-end projects** using real-world tools
 ---
 
 ## 🛠️ Tech Stack  
@@ -82,13 +100,15 @@ I'm always open to collaborating on meaningful projects or discussing tech-relat
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊GitHub Stats
 <p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu0518&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu0518&layout=compact&langs_count=8&theme=radical"
+    alt="Top Languages" 
+    width="400"
+    height="300"
+  />
 </p>
-
 ---
 
 ⭐ *Thanks for visiting my profile!* 😊
