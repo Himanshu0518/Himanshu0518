@@ -23,7 +23,7 @@
 class HimanshuSingh:
     def __init__(self):
         self.username = "Himanshu0518"
-        self.role = "3rd Year B.Tech Student"
+        self.role = "final Year B.Tech Student"
         self.location = "India 🇮🇳"
         self.interests = ["Machine Learning", "MLOps", "LangChain", "DSA" , "web-devlopment"]
         self.current_focus = "Building end to end scalable applications"
