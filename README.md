@@ -48,68 +48,6 @@ class HimanshuSingh:
     def motto(self):
         return "Turning ideas into production-ready intelligent systems."
 ```
-
----
-
-# 🧠 Skills
-
-### Programming
-
-- Python
-- C++
-- JavaScript
-
-### Machine Learning
-
-- Supervised Learning
-- Unsupervised Learning
-- Feature Engineering
-- Model Evaluation
-- Deep Learning
-- Time Series Forecasting
-
-### Generative AI
-
-- LangChain
-- LangGraph
-- Hugging Face
-- RAG Pipelines
-- Prompt Engineering
-- LLM Applications
-- Pydantic 
-
-### MLOps
-
-- MLflow
-- DVC
-- Docker
-- FastAPI
-- GitHub Actions
-- CI/CD
-- AWS
-
-### Backend
-
-- FastAPI
-- Node.js
-- REST APIs
-- Authentication
-- Microservices
-
-### Databases
-
-- MongoDB
-- MySQL
-
-### Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- DBMS
-
----
-
 # 🚀 Currently Working On
 
 - Building production-ready ML systems
@@ -127,21 +65,17 @@ class HimanshuSingh:
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
