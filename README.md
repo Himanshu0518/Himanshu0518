@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Himanshu%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20GenAI%20%7C%20MLOps%20%7C%20Backend%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Himanshu Singh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production+AI+Systems;RAG+%2B+Agentic+Pipelines+with+LangGraph;MLOps+%7C+Cloud+%7C+Distributed+Systems;Final-Year+B.Tech+ECE+%40+IIIT+Una" alt="Typing SVG" />
-
-<br><br>
+**ML Engineer | GenAI | MLOps | Backend Systems**
 
 <a href="https://www.linkedin.com/in/himanshu-singh-2393622b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/hs_ss/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
@@ -129,7 +127,3 @@ class HimanshuSingh:
 
 Open to roles in **GenAI Engineering, MLOps, and Backend Systems**.
 Reach out on [LinkedIn](https://www.linkedin.com/in/himanshu-singh-2393622b2/) or explore my [Portfolio](https://himanshu0518.vercel.app/) — always happy to collaborate on interesting ML/AI or systems projects.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
